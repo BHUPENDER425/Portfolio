@@ -168,7 +168,7 @@ export default function Component() {
       </nav>
 
       {/* Hero Section */}
-      <main id="home" className="relative z-6 flex flex-col items-center justify-center px-4 pl-4 md:pl-20 md:min-h-[80vh] text-center">
+      <main id="home" className="relative z-6 flex flex-col items-center justify-center px-4 pl-4 md:pl-20 md:min-h-[80vh] min-h-[50vh] text-center">
         <div className="text-center max-w-4xl mx-auto">
           <p
             className={`text-lg mb-8 transition-colors duration-300 ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}
