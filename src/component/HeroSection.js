@@ -104,7 +104,7 @@ export default function Component() {
         >
           <div className="relative group">
             <button
-              onClick={() => setNavOpen(!navOpen)}
+              
               aria-haspopup="true"
               aria-expanded={navOpen}
               className="text-sm font-medium px-3 py-2 flex items-center gap-2"
@@ -129,7 +129,7 @@ export default function Component() {
           </div>
           <div className="relative group">
             <button
-              onClick={() => setNavOpen(!navOpen)}
+              
               aria-haspopup="true"
               aria-expanded={navOpen}
               className="text-sm font-medium px-3 py-2 flex items-center gap-2"
