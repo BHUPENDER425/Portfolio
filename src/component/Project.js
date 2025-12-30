@@ -1,7 +1,5 @@
 "use client"
-
-import { useState } from "react"
-import { Moon, Sun, ExternalLink, Eye, Github } from "lucide-react"
+import { ExternalLink, Eye, Github } from "lucide-react"
 // import { button } from "@/components/ui/button"
 // import { Badge } from "@/components/ui/badge"
 // import {isDarkMode} from "./HeroSection" 
