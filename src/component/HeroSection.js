@@ -168,7 +168,7 @@ export default function Component() {
       </nav>
 
       {/* Hero Section */}
-      <main id="home" className="relative z-6 flex flex-col items-center justify-center min-h-screen px-4 pl-4 md:pl-20">
+      <main id="home" className="relative z-6 flex flex-col items-center justify-center px-4 pl-4 md:pl-20 min-h-[80vh] text-center">
         <div className="text-center max-w-4xl mx-auto">
           <p
             className={`text-lg mb-8 transition-colors duration-300 ${isDarkMode ? "text-gray-300" : "text-gray-600"}`}
@@ -216,7 +216,7 @@ export default function Component() {
       </main>
 
       {/* Experience Section */}
-      <section id="experience" className="relative z-10 px-4 pl-4 md:pl-20 py-8">
+      <section id="experience" className="relative z-10 px-4 pl-4 md:pl-16 py-8">
         <div className="max-w-7xl mx-auto">
           <h2 className="text-4xl md:text-6xl font-bold mb-4">Experience</h2>
 
