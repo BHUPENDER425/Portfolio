@@ -12,7 +12,7 @@ export default function Component() {
   const [isDarkMode, setIsDarkMode] = useState(true);
   const [scrollProgress, setScrollProgress] = useState(0);
   const [navOpen, setNavOpen] = useState(false);
-  const fullText = "JavaScrip and React/Next.js developer"
+  const fullText = "JavaScript and React/Next.js developer"
 
   useEffect(() => {
     let index = 0
