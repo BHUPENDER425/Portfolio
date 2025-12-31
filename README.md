@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+## 🌐 Portfolio
+Check out my personal portfolio website:  
+👉 [Bhupender Sharma Portfolio](https://bhuepndersharmaportfolio.netlify.app/)
+
 ### `npm start`
 
 Runs the app in the development mode.\
